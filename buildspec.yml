@@ -37,4 +37,4 @@ artifacts:
 
 env:
     parameter-store:
-        JWT_SECRET: muco-jwt-secret
+        JWT_SECRET: JWT_SECRET
